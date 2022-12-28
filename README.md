@@ -1,4 +1,5 @@
 # rotten-potatoes
+Aplicação em Python proposta pelo professor Fabricio Veronez para exemplo do uso de containers
 
 ## Configuração
 
