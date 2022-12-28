@@ -3,6 +3,8 @@ Aplicação em Python proposta pelo professor Fabricio Veronez para exemplo do u
 
 ## Configuração
 
+Pra configurar a aplicação, é preciso ter um banco de dados Mongo e pra definir o acesso ao banco, configure as variáveis de ambiente abaixo:
+
 MONGODB_DB => Nome do database
 
 MONGODB_HOST => Host do MongoDB
